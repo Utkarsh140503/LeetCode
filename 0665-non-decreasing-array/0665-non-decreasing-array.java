@@ -7,11 +7,11 @@ class Solution {
         }
 
         for (int x = 0; x < nums.length; x++) {
-            int original = nums[x]; // Store the original value
-
-            // Try decreasing nums[x] if possible
-            if (x > 0) nums[x] = nums[x - 1]; 
-            else nums[x] = Integer.MIN_VALUE; // Ensure it's the smallest
+            int original = nums[x]; 
+            if (x > 0){
+                nums[x] = nums[x-1];
+            } 
+            else nums[x] = 0; 
 
             if (isNonDecreasing(nums)) return true;
 
