@@ -8,10 +8,12 @@ LeetCode Solutions!
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
 | [0932-monotonic-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0932-monotonic-array) |
+| [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -59,4 +61,12 @@ LeetCode Solutions!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
