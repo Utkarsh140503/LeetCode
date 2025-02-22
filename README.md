@@ -98,4 +98,12 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
