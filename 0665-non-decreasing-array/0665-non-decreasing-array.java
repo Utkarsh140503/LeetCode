@@ -1,29 +1,28 @@
 class Solution {
     public boolean checkPossibility(int[] nums) {
-        boolean poss = false;
-
+        int c=0;
         if (isNonDecreasing(nums)) {
-            return true; // Already non-decreasing
+            return true;
         }
-
-        for (int x = 0; x < nums.length; x++) {
-            int original = nums[x]; 
-            if (x > 0){
-                nums[x] = nums[x-1];
-            } 
-            else nums[x] = 0; 
-
-            if (isNonDecreasing(nums)) return true;
-
-            // Restore original value
-            nums[x] = original;
+        for(int x=1;x<nums.length;x++){
+            if(nums[x-1]>nums[x]){
+                c++;
+                if(c>1){
+                    return false;
+                }
+                // Adjust previous element or current element to maintain non-decreasing order
+                if (x - 2 < 0 || nums[x] >= nums[x - 2]) {
+                    nums[x - 1] = nums[x];
+                } else {
+                    nums[x] = nums[x - 1];
+                }
+            }
         }
-        return false;
+        return true;
     }
-
     public boolean isNonDecreasing(int[] n) {
-        for (int i = 0; i < n.length - 1; i++) {
-            if (n[i] > n[i + 1]) {
+        for (int i=0; i<n.length-1; i++) {
+            if (n[i] > n[i+1]) {
                 return false;
             }
         }
