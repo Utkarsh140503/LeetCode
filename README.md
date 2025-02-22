@@ -7,6 +7,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
+| [0665-non-decreasing-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0932-monotonic-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0932-monotonic-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
