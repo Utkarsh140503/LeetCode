@@ -14,6 +14,7 @@ LeetCode Solutions!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -21,6 +22,7 @@ LeetCode Solutions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -35,6 +37,7 @@ LeetCode Solutions!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -47,4 +50,8 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
