@@ -55,6 +55,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Utkarsh140503/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Simulation
 |  |
