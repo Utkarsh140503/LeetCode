@@ -1,20 +1,30 @@
 class Solution {
     public boolean checkPossibility(int[] nums) {
-        int count = 0; // Count of modifications
+        boolean poss = false;
 
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
-                if (count == 1) {
-                    return false; // More than one modification required
-                }
-                count++;
+        if (isNonDecreasing(nums)) {
+            return true; // Already non-decreasing
+        }
 
-                // Modify nums[i] or nums[i+1] to maintain order
-                if (i == 0 || nums[i - 1] <= nums[i + 1]) {
-                    nums[i] = nums[i + 1]; // Adjust current element
-                } else {
-                    nums[i + 1] = nums[i]; // Adjust next element
-                }
+        for (int x = 0; x < nums.length; x++) {
+            int original = nums[x]; // Store the original value
+
+            // Try decreasing nums[x] if possible
+            if (x > 0) nums[x] = nums[x - 1]; 
+            else nums[x] = Integer.MIN_VALUE; // Ensure it's the smallest
+
+            if (isNonDecreasing(nums)) return true;
+
+            // Restore original value
+            nums[x] = original;
+        }
+        return false;
+    }
+
+    public boolean isNonDecreasing(int[] n) {
+        for (int i = 0; i < n.length - 1; i++) {
+            if (n[i] > n[i + 1]) {
+                return false;
             }
         }
         return true;
