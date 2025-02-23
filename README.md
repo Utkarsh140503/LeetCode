@@ -19,6 +19,7 @@ LeetCode Solutions!
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Tree
@@ -58,6 +59,7 @@ LeetCode Solutions!
 ## String
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Utkarsh140503/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -112,4 +114,12 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
