@@ -16,6 +16,7 @@ LeetCode Solutions!
 | [1039-find-the-town-judge](https://github.com/Utkarsh140503/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh140503/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
