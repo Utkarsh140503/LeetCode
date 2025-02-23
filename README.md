@@ -22,6 +22,7 @@ LeetCode Solutions!
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
@@ -65,6 +66,7 @@ LeetCode Solutions!
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -87,6 +89,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
@@ -140,4 +143,8 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
