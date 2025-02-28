@@ -17,6 +17,7 @@ LeetCode Solutions!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh140503/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ LeetCode Solutions!
 ## Simulation
 |  |
 | ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Graph
 |  |
 | ------- |
