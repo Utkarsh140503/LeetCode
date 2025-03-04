@@ -142,6 +142,7 @@ LeetCode Solutions!
 | ------- |
 | [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ LeetCode Solutions!
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Utkarsh140503/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
 | ------- |
