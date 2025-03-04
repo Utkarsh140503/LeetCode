@@ -8,6 +8,7 @@ LeetCode Solutions!
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ LeetCode Solutions!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
@@ -128,6 +130,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Union Find
 |  |
