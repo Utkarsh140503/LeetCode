@@ -124,6 +124,7 @@ LeetCode Solutions!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Utkarsh140503/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@ LeetCode Solutions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Utkarsh140503/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
 ## Queue
