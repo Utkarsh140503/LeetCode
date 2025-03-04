@@ -9,6 +9,7 @@ LeetCode Solutions!
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Utkarsh140503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -28,6 +29,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Utkarsh140503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -198,4 +200,8 @@ LeetCode Solutions!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Utkarsh140503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
