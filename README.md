@@ -11,6 +11,7 @@ LeetCode Solutions!
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
@@ -140,6 +141,7 @@ LeetCode Solutions!
 | [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
 |  |
 | ------- |
@@ -159,6 +161,7 @@ LeetCode Solutions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
@@ -174,6 +177,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
 | ------- |
