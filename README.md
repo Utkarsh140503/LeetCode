@@ -7,6 +7,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -158,4 +159,8 @@ LeetCode Solutions!
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Utkarsh140503/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Utkarsh140503/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
