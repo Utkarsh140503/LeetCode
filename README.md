@@ -51,6 +51,7 @@ LeetCode Solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ LeetCode Solutions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -79,6 +81,7 @@ LeetCode Solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String
 |  |
@@ -196,6 +199,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
