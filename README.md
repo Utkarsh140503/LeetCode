@@ -51,6 +51,7 @@ LeetCode Solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ LeetCode Solutions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ LeetCode Solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String
 |  |
 | ------- |
@@ -164,6 +167,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,4 +218,8 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh140503/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
