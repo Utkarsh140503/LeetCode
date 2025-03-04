@@ -97,6 +97,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarsh140503/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarsh140503/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
