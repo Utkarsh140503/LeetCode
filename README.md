@@ -80,6 +80,7 @@ LeetCode Solutions!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Utkarsh140503/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Utkarsh140503/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -207,4 +208,8 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Utkarsh140503/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Utkarsh140503/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
