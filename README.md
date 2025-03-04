@@ -12,6 +12,7 @@ LeetCode Solutions!
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -196,4 +197,5 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
