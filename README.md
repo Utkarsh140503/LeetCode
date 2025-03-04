@@ -8,6 +8,7 @@ LeetCode Solutions!
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh140503/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Utkarsh140503/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -110,6 +111,7 @@ LeetCode Solutions!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -190,4 +192,8 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarsh140503/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
