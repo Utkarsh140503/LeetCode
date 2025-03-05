@@ -113,6 +113,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/Utkarsh140503/LeetCode/tree/master/0343-integer-break) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarsh140503/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarsh140503/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -222,6 +223,7 @@ LeetCode Solutions!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/Utkarsh140503/LeetCode/tree/master/0343-integer-break) |
 | [0647-palindromic-substrings](https://github.com/Utkarsh140503/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
