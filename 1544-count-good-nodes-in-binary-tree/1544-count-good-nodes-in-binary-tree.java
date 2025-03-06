@@ -25,7 +25,9 @@ class Solution {
             max = root.val;
             count++;
         }
+        if(root.left!=null)
         dfs(root.left, max);
+        if(root.right!=null)
         dfs(root.right, max);
     }
 }
