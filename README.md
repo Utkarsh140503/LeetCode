@@ -26,6 +26,7 @@ LeetCode Solutions!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh140503/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2102-find-the-middle-index-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2102-find-the-middle-index-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
