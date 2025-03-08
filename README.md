@@ -21,6 +21,7 @@ LeetCode Solutions!
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Utkarsh140503/LeetCode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0665-non-decreasing-array) |
+| [0724-find-pivot-index](https://github.com/Utkarsh140503/LeetCode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0932-monotonic-array) |
 | [1039-find-the-town-judge](https://github.com/Utkarsh140503/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -195,6 +196,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Utkarsh140503/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Utkarsh140503/LeetCode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
