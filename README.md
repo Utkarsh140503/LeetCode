@@ -123,6 +123,7 @@ LeetCode Solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -180,6 +181,7 @@ LeetCode Solutions!
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -278,9 +280,14 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
