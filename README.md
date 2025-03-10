@@ -38,6 +38,7 @@ LeetCode Solutions!
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh140503/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Utkarsh140503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -167,6 +168,7 @@ LeetCode Solutions!
 | [0061-rotate-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh140503/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -176,6 +178,7 @@ LeetCode Solutions!
 | [0088-merge-sorted-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh140503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh140503/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Utkarsh140503/LeetCode/tree/master/0647-palindromic-substrings) |
