@@ -30,6 +30,7 @@ LeetCode Solutions!
 | [2102-find-the-middle-index-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3483-alternating-groups-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ LeetCode Solutions!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
@@ -175,6 +177,7 @@ LeetCode Solutions!
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
