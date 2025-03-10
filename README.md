@@ -126,6 +126,7 @@ LeetCode Solutions!
 | ------- |
 | [0268-missing-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Utkarsh140503/LeetCode/tree/master/0343-integer-break) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Utkarsh140503/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Utkarsh140503/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -173,6 +174,7 @@ LeetCode Solutions!
 | [0160-intersection-of-two-linked-lists](https://github.com/Utkarsh140503/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
