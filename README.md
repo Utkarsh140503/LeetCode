@@ -49,6 +49,7 @@ LeetCode Solutions!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ LeetCode Solutions!
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Utkarsh140503/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarsh140503/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -269,4 +271,5 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Utkarsh140503/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
