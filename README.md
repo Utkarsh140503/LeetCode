@@ -115,6 +115,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Utkarsh140503/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Utkarsh140503/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/Utkarsh140503/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Utkarsh140503/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -181,6 +182,7 @@ LeetCode Solutions!
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Utkarsh140503/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
