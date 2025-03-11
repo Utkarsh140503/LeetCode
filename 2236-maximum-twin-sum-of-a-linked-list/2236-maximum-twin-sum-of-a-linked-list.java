@@ -12,20 +12,28 @@ class Solution {
     public int pairSum(ListNode head) {
         Stack<Integer> st = new Stack<>();
         ListNode dummy = head;
-        while(dummy!=null){
-            st.push(dummy.val);
-            dummy=dummy.next;
+        ListNode mid = head;
+        
+        // Find the middle of the linked list
+        while (dummy != null && dummy.next != null) {
+            mid = mid.next;
+            dummy = dummy.next.next;
         }
-        int largest=0;
-        while(head!=null){
-            if((head.val+st.peek())>largest){
-                largest=head.val+st.peek();
-                st.pop();
-                head=head.next;
-            }else{
-                st.pop();
-                head=head.next;
+
+        // Push the second half values into the stack
+        while (mid != null) {
+            st.push(mid.val);
+            mid = mid.next;
+        }
+
+        int largest = 0;
+        while (!st.isEmpty()) {
+            // Calculate twin sum and update largest if necessary
+            int twinSum = head.val + st.pop();
+            if (twinSum > largest) {
+                largest = twinSum;
             }
+            head = head.next;
         }
         return largest;
     }
