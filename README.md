@@ -26,6 +26,7 @@ LeetCode Solutions!
 | [0932-monotonic-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0932-monotonic-array) |
 | [1039-find-the-town-judge](https://github.com/Utkarsh140503/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh140503/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Utkarsh140503/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -125,6 +126,7 @@ LeetCode Solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -185,6 +187,7 @@ LeetCode Solutions!
 | [0237-delete-node-in-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Utkarsh140503/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Utkarsh140503/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -215,6 +218,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -301,4 +305,12 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
