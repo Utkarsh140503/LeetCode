@@ -14,6 +14,7 @@ LeetCode Solutions!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Utkarsh140503/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Utkarsh140503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Utkarsh140503/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Utkarsh140503/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Utkarsh140503/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0268-missing-number) |
@@ -234,6 +235,7 @@ LeetCode Solutions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Utkarsh140503/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh140503/LeetCode/tree/master/0287-find-the-duplicate-number) |
