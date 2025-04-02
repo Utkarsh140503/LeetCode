@@ -27,6 +27,7 @@ LeetCode Solutions!
 | [0932-monotonic-array](https://github.com/Utkarsh140503/LeetCode/tree/master/0932-monotonic-array) |
 | [1039-find-the-town-judge](https://github.com/Utkarsh140503/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Utkarsh140503/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Utkarsh140503/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/Utkarsh140503/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh140503/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@ LeetCode Solutions!
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Utkarsh140503/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Utkarsh140503/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -307,6 +309,7 @@ LeetCode Solutions!
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Utkarsh140503/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
