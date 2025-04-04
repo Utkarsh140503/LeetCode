@@ -106,6 +106,7 @@ LeetCode Solutions!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh140503/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/Utkarsh140503/LeetCode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh140503/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Utkarsh140503/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/Utkarsh140503/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -125,6 +126,7 @@ LeetCode Solutions!
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Utkarsh140503/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Utkarsh140503/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Utkarsh140503/LeetCode/tree/master/0234-palindrome-linked-list) |
